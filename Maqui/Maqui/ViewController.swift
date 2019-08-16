@@ -15,9 +15,9 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
     }
 
-    @IBAction func TrackLink(sender: Any) {
-        UIApplication.shared.open(URL(string: "https://princetonhs-ar.rschooltoday.com/oar")! as URL, options: [:], completionHandler: nil)
-    }
+//    @IBAction func TrackLink(sender: Any) {
+//        UIApplication.shared.open(URL(string: "https://princetonhs-ar.rschooltoday.com/oar")! as URL, options: [:], completionHandler: nil)
+//    }
 //        openUrl(urlStr: "http://fr.envisite.net/t5exce")
 //    }
 //
